@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZI6Lv5frD0RLZAGFDfnncJTbVVP0HUwlJCRO1itMtZRUTkTLY27z2nMZeuGO+kPIL4uwJHgouaf+IfUkHa5NVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeldat\\source\\repos\\EmployeAccouting\\EmployeAccouting\\EmployeAccouting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeldat\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
